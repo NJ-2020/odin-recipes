@@ -16,8 +16,8 @@ https://muhammadjufri.github.io/odin-recipes/
 
 👤 **Novell**
 
-- GitHub: [](https://github.com/NJ-2020)
+- GitHub: [NJ-2020](https://github.com/NJ-2020)
 
 👤 **Muhammad**
 
-- GitHub: [](https://github.com/MuhammadJufri)
+- GitHub: [MuhammadJufri](https://github.com/MuhammadJufri)
