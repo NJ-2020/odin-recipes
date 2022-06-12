@@ -10,7 +10,7 @@
 
 ## Live Demo Of The Project
 
-https://muhammadjufri.github.io/odin-recipes/
+https://nj-2020.github.io/odin-recipes/
 
 ## Authors
 
