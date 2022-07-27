@@ -2,7 +2,7 @@
 
 > This is our first project with The Odin Project. On this project, I demonstrate my basic HTML5 skills.
 
-![screenshot](screenshot.jpeg)
+![screenshot](screenshot.png)
 
 ## Built With
 
